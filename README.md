@@ -31,7 +31,7 @@ Clocklyは以下の機能を持つ．
 
   以下のコマンドを使用し，.env.exampleから.envをコピーする．
   .envは外部のカレンダシステムと連携する際に必要となるOAuthのClient IDとClient Secretを格納する．
-  現在はGoogle Calendarとのみ連携可能であり，詳細は[Google Calendarとの連携](https://github.com/kimura3104/Clockly/edit/master/README.md#google-calendar%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA)で説明する．
+  現在はGoogle Calendarとのみ連携可能であり，詳細は[Google Calendarとの連携](https://github.com/kimura3104/Clockly#google-calendar%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA)で説明する．
   ```
   $ cp .env.example .env
   ```
